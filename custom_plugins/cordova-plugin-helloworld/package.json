@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-helloworld",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-helloworld",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
